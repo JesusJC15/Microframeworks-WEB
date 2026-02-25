@@ -1,4 +1,4 @@
-package com.arep.microframeworks_web.utils;
+package com.arep.microframeworks_web.utilities;
 
 import java.net.*;
 import java.io.*;
